@@ -10,5 +10,6 @@ class Shoe
     puts "Your shoe is as good as new!"
     Shoe.condition.new = "new"
   end
+
  
 end
