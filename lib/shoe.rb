@@ -12,4 +12,4 @@ class Shoe
  
 end
 
-condition = condition.new, "new"
+condition = "new"
