@@ -13,3 +13,4 @@ class Shoe
  
 end
 
+condition = condition.new = 
